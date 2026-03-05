@@ -5,9 +5,11 @@ cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: flaviap@ethz.ch # your email address
 scholar_userid: 59gXkIsAAAAJ # your Google Scholar ID
 custom_social:
-  - logo: /assets/img/InBug-White.png
+  linkedin:
+    logo: /assets/img/InBug-White.png
     title: LinkedIn
     url: https://www.linkedin.com/in/flavia-pedrocchi/
-  - logo: /assets/img/GitHub_Invertocat_White.png
+  github:
+    logo: /assets/img/GitHub_Invertocat_White.png
     title: GitHub
     url: https://github.com/flaviaped

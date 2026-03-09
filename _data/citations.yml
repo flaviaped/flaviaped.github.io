@@ -1,11 +1,11 @@
 metadata:
-  last_updated: '2026-03-06'
+  last_updated: '2026-03-09'
 papers:
   59gXkIsAAAAJ:u-x6o8ySG0sC:
     citations: 1
     title: Identifying biological priors and structure in single-cell foundation models
     year: '2024'
   59gXkIsAAAAJ:u5HHmVD_uO8C:
-    citations: 0
+    citations: 1
     title: Sparse Autoencoders Reveal Interpretable Features in Single-Cell Foundation Models
     year: '2025'

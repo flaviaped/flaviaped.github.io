@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Scientific Assistant, ETH Zurich
+subtitle: Scientific Assistant in the BoevaLab @ ETH Zurich
 
 profile:
   align: right

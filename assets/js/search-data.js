@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-news",
+          title: "News",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "",
@@ -28,16 +35,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-paper-sparse-autoencoders-reveal-interpretable-features-in-single-cell-foundation-models-was-accepted-at-the-gen-2-workshop-at-iclr-2026-tada",
+          title: 'Our paper “Sparse Autoencoders Reveal Interpretable Features in Single-Cell Foundation Models” was accepted...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-won-second-prize-in-the-ai-for-cofolding-track-at-the-bioincubate-catalyst-protein-design-hackathon-at-eth-zurich",
+          title: 'Won second prize in the AI for Cofolding track at the BioIncubate Catalyst...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-started-my-phd-as-a-doctoral-fellow-at-the-eth-ai-center",
+          title: 'Started my PhD as a doctoral fellow at the ETH AI Center.',
+          description: "",
+          section: "News",},{id: "news-gave-a-talk-at-the-ascona-workshop-on-statistical-and-ai-methods-for-multi-modal-multi-scale-modeling-of-biological-systems-monte-verità",
+          title: 'Gave a talk at the Ascona Workshop on Statistical and AI Methods for...',
+          description: "",
+          section: "News",},{id: "news-presented-a-poster-at-eccb-2026-the-25th-european-conference-on-computational-biology-in-geneva",
+          title: 'Presented a poster at ECCB 2026, the 25th European Conference on Computational Biology,...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
